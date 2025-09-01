@@ -1,0 +1,9 @@
+{
+    "colors": {
+        "primary": "#3498db",
+        "accent": "#f1c40f",
+        "background": "#ecf0f1",
+        "text": "#2c3e50"
+    },
+    "font": "Arial, sans-serif"
+}

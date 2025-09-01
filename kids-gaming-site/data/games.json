@@ -1,0 +1,31 @@
+{
+    "title": "Awesome Kids Games",
+    "tagline": "New games every week!",
+    "countdown": "2025-12-31T23:59:59Z",
+    "games": [
+        {
+            "id": "g1",
+            "name": "Puzzle Masters",
+            "description": "A fun puzzle game to test your logic.",
+            "thumb": "assets/images/puzzle.png",
+            "difficulty": "easy",
+            "url": "#"
+        },
+        {
+            "id": "g2",
+            "name": "Adventure Quest",
+            "description": "An exciting adventure game.",
+            "thumb": "assets/images/adventure.png",
+            "difficulty": "medium",
+            "url": "#"
+        },
+        {
+            "id": "g3",
+            "name": "Space Explorer",
+            "description": "Explore the galaxy in this cool space game.",
+            "thumb": "assets/images/space.png",
+            "difficulty": "hard",
+            "url": "#"
+        }
+    ]
+}
